@@ -1,0 +1,12 @@
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Cache del scraper
+manifest.json
+output/
