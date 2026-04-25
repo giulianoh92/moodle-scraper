@@ -20,7 +20,6 @@ COURSE_URL = f"{MOODLE_BASE}/course/view.php"
 # --- Paths ---
 VAULT_PATH = Path("/home/giuliano/Desarrollo/Personal/Facultad/Vault")
 MATERIAS_PATH = VAULT_PATH / "10_Materias"
-ADJUNTOS_PATH = VAULT_PATH / "90_Adjuntos" / "moodle"
 PROJECT_PATH = Path(__file__).parent
 
 # --- Mapeo curso Moodle → carpeta vault ---

@@ -6,9 +6,23 @@ import time
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
-from config import ADJUNTOS_PATH, DOWNLOAD_DELAY, BINARY_EXTENSIONS
+from config import MATERIAS_PATH, DOWNLOAD_DELAY, BINARY_EXTENSIONS
 
 logger = logging.getLogger(__name__)
+
+
+def _fix_latin1_filename(filename: str) -> str:
+    """Corrige doble codificación UTF-8 en nombres de archivo.
+
+    Cuando el servidor envía un nombre UTF-8 en el header Content-Disposition,
+    requests lo decodifica como Latin-1 (per HTTP spec), produciendo caracteres
+    como 'GuÃ­a' en lugar de 'Guía'. Re-codificamos a Latin-1 y decodificamos
+    como UTF-8 para obtener el nombre correcto.
+    """
+    try:
+        return filename.encode('latin-1').decode('utf-8')
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return filename
 
 
 def get_filename_from_response(resp, url: str) -> str:
@@ -23,14 +37,14 @@ def get_filename_from_response(resp, url: str) -> str:
         # filename="nombre.pdf"
         match = re.search(r'filename="?([^";\n]+)"?', cd)
         if match:
-            return unquote(match.group(1)).strip()
+            return _fix_latin1_filename(unquote(match.group(1)).strip())
 
     # Fallback: extraer de la URL
     parsed = urlparse(url)
     path = unquote(parsed.path)
     name = path.split("/")[-1]
     if name and "." in name:
-        return name
+        return _fix_latin1_filename(name)
 
     return ""
 
@@ -88,7 +102,7 @@ def download_file(session, url: str, materia: str, prefix: str = "") -> dict:
     result["filename"] = filename
 
     # Crear directorio destino
-    dest_dir = ADJUNTOS_PATH / materia
+    dest_dir = MATERIAS_PATH / materia / "Recursos"
     dest_dir.mkdir(parents=True, exist_ok=True)
     dest_path = dest_dir / filename
 
