@@ -8,5 +8,4 @@ __pycache__/
 .venv/
 
 # Cache del scraper
-manifest.json
 output/

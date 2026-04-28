@@ -1,0 +1,1335 @@
+{
+  "resources": {
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=119031": {
+      "action": "error",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=120200": {
+      "action": "external",
+      "target_url": "https://www.youtube.com/playlist?list=PLT9jTC-Jk8rUa_sxQorcBqqehjQqDpVLH",
+      "type": "url",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1321": {
+      "action": "downloaded",
+      "filename": "Guía TP Autómatas.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1448": {
+      "action": "downloaded",
+      "filename": "Apunte1.doc",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1449": {
+      "action": "downloaded",
+      "filename": "introducción a la materia.ppt",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1450": {
+      "action": "downloaded",
+      "filename": "lenguajes y autómatas abstractos.ppt",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=22542": {
+      "action": "error",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=71393": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=30824": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/Clase del 23 de Abril. Teoría de Autómatas.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1790": {
+      "action": "downloaded",
+      "filename": "Apunte 02 Automatas de Est.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=28186": {
+      "action": "downloaded",
+      "filename": "Teoria de Autómatas.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=30969": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/7 de Mayo. Aceptores de Estados Finitos.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=37740": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/Expresiones Regulares Videos.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=75015": {
+      "action": "downloaded",
+      "filename": "AEF.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132443": {
+      "action": "downloaded",
+      "filename": "Clase2024-05-02-OscarWohlfarhrt.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=132446": {
+      "action": "external",
+      "target_url": "https://youtu.be/Zu9_XL5rNgg",
+      "type": "url",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=132459": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/Clase online 25.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1791": {
+      "action": "downloaded",
+      "filename": "Apunte 03 Automatas de Tap.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1900": {
+      "action": "downloaded",
+      "filename": "APD (1).pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1901": {
+      "action": "downloaded",
+      "filename": "analisis top-down.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=1939": {
+      "action": "downloaded",
+      "filename": "traverse sets.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=4435": {
+      "action": "downloaded",
+      "filename": "APD1.1.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=4436": {
+      "action": "downloaded",
+      "filename": "LLC1.1.pdf",
+      "type": "file",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=37741": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/Aceptores Push-Down.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=37742": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/Conjunto Traverse Videos.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=38502": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/APD ejercicios resueltos.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=38504": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/GLC y transformaciones.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=39953": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Automatas y Lenguajes Formales/Recursos/APD Ejercicios complementarios.md",
+      "type": "page",
+      "materia": "Automatas y Lenguajes Formales"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=10936": {
+      "action": "downloaded",
+      "filename": "Dantzig2002.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=19864": {
+      "action": "downloaded",
+      "filename": "Planificación investigación operativa 2020 (1).pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=5423": {
+      "action": "downloaded",
+      "filename": "IntroduccionInvOp.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=11422": {
+      "action": "downloaded",
+      "filename": "Modelos de Programación Lineal Resolución gráfica y Teorema fundamental.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=127744": {
+      "action": "downloaded",
+      "filename": "TP1_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=128300": {
+      "action": "downloaded",
+      "filename": "Problemas de Programación Lineal - TPN1.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=128303": {
+      "action": "downloaded",
+      "filename": "Problema1.ggb",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=66016": {
+      "action": "error",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=66034": {
+      "action": "error",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=130018": {
+      "action": "downloaded",
+      "filename": "TP2_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132199": {
+      "action": "downloaded",
+      "filename": "Metodo_Simplex_Cj-Zj_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=145866": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Investigacion Operativa/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132200": {
+      "action": "downloaded",
+      "filename": "Metodo_DosFases_M-grande_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132201": {
+      "action": "downloaded",
+      "filename": "Ejemplo_Simplex_Cj-Zj.xlsx",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132202": {
+      "action": "downloaded",
+      "filename": "Ejemplo_Metodo_2_fases.xlsx",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=116242": {
+      "action": "external",
+      "target_url": "https://qm-for-windows.software.informer.com/Descargar-gratis/",
+      "type": "url",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/folder/view.php?id=78424": {
+      "action": "folder",
+      "folder_files": [
+        {
+          "filename": "Problema de Transporte 1 - Presentacion y formulacion.pdf"
+        },
+        {
+          "filename": "Problema de Transporte 2 - Metodo esquina noroeste.pdf"
+        },
+        {
+          "filename": "Problema de Transporte 3 - Metodo aproximacion Vogel.pdf"
+        },
+        {
+          "filename": "Problema de Transporte 4 - Metodo costo minimo.pdf"
+        },
+        {
+          "filename": "Problema de Transporte 5 - Metodo pasos secuenciales.pdf"
+        },
+        {
+          "filename": "Problema de Transporte 6 - Metodo DIMO.pdf"
+        },
+        {
+          "filename": "Problema de Transporte 7 - Situaciones especiales.pdf"
+        }
+      ],
+      "type": "folder",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=147450": {
+      "action": "downloaded",
+      "filename": "PPL_Problema_transporte_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=147454": {
+      "action": "downloaded",
+      "filename": "PPL_transporte_Executive_Furniture.xlsx",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=133056": {
+      "action": "downloaded",
+      "filename": "TP3_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=147985": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Investigacion Operativa/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=13490": {
+      "action": "downloaded",
+      "filename": "Actividad de transporte resuelta.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/folder/view.php?id=78426": {
+      "action": "folder",
+      "folder_files": [
+        {
+          "filename": "Problema de Asignación 1 - Presentacion y formulacion.pdf"
+        },
+        {
+          "filename": "Problema de Asignación 2 - Metodos de solucion.pdf"
+        }
+      ],
+      "type": "folder",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=147995": {
+      "action": "downloaded",
+      "filename": "Ejemplo_problema_asignacion.xlsx",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132990": {
+      "action": "downloaded",
+      "filename": "TP4_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=147986": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Investigacion Operativa/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=865": {
+      "action": "downloaded",
+      "filename": "CPM-PERT_Teoria.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=134028": {
+      "action": "downloaded",
+      "filename": "TP5_InvestigacionOperativa2024.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=134388": {
+      "action": "downloaded",
+      "filename": "Presentación PERT.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=134389": {
+      "action": "downloaded",
+      "filename": "Ejemplos Resueltos CPM-PERT.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=866": {
+      "action": "downloaded",
+      "filename": "PlanteamientoPL-AdministracionDeProyectos.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=134390": {
+      "action": "downloaded",
+      "filename": "Ejemplos Resueltos CPM.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=148427": {
+      "action": "downloaded",
+      "filename": "PERT_Ejemplo.pdf",
+      "type": "file",
+      "materia": "Investigacion Operativa"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128883": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128248": {
+      "action": "assign",
+      "page_file": null,
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128244": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=131673": {
+      "action": "downloaded",
+      "filename": "[Apunte de Catedra] ArchitecturalDesign-Completo.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=131669": {
+      "action": "downloaded",
+      "filename": "MA-Modelo4+1conUML.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128242": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=146500": {
+      "action": "downloaded",
+      "filename": "MA-2025-Metamodelos.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128241": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=129089": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=157462": {
+      "action": "downloaded",
+      "filename": "DevolucionGeneralPresentaciones.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128239": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128237": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=128593": {
+      "action": "downloaded",
+      "filename": "[MA 2025] Intro IdSw [Parte1].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=142780": {
+      "action": "downloaded",
+      "filename": "[MA 2025] Intro IdSw [Parte2].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156000": {
+      "action": "downloaded",
+      "filename": "[MA 2026] Presenta Asignatura -17032026.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155999": {
+      "action": "downloaded",
+      "filename": "[Planificacion] II338-METODOLOGIAS AVANZADAS-2026.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156001": {
+      "action": "downloaded",
+      "filename": "[MA-2026][TP INTEGRADOR OBLIGATORIO GRUPAL][ENTREGABLE].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=114895": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Propósito de la Asignatura.md",
+      "type": "page",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=155147": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Errores y fallos famosos de sistemas de software.md",
+      "type": "page",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=116317": {
+      "action": "downloaded",
+      "filename": "[Planificacion] II338-METODOLOGIAS AVANZADAS-2026.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114892": {
+      "action": "downloaded",
+      "filename": "[MA 2026] Presenta Asignatura -17032026.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155137": {
+      "action": "external",
+      "target_url": "https://www.ugd.edu.ar/la-universidad/alumnos/horarios-de-catedra",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=155145": {
+      "action": "error",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=148256": {
+      "action": "downloaded",
+      "filename": "Estructura y contenidos - Ing Informatica UGD.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155143": {
+      "action": "external",
+      "target_url": "https://ugd.edu.ar/es/la-universidad-4/alumnos/calendario",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118339": {
+      "action": "external",
+      "target_url": "http://www.ugd.edu.ar/images/reglamentos/Reglamento_General_de_Estudios.pdf",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118338": {
+      "action": "external",
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNormaBusquedaAvanzada/58577/20111011",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=118340": {
+      "action": "downloaded",
+      "filename": "RES 1632-18 INGENIERO-A EN INFORMÁTICA.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=118341": {
+      "action": "downloaded",
+      "filename": "RES 1872-17 ANALISTA UNIVERSITARIO DE SISTEMAS.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155144": {
+      "action": "external",
+      "target_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/328034/20250708",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118343": {
+      "action": "external",
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNorma/244514/20210518",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118344": {
+      "action": "external",
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNorma/183989/20180518",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118345": {
+      "action": "external",
+      "target_url": "http://www.coneau.edu.ar/archivos/Res786_09.pdf",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118346": {
+      "action": "external",
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNorma/9416851/20090604",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114948": {
+      "action": "downloaded",
+      "filename": "[MA en UGD] Bibliografia de Metodologias Avanzadas.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=155383": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/[RECORDATORIO] ¿CÓMO CITAR Y REFERENCIAR ADECUADAMENTE.md",
+      "type": "page",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=128336": {
+      "action": "error",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114945": {
+      "action": "downloaded",
+      "filename": "swebok-v4a.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114900": {
+      "action": "external",
+      "target_url": "http://resources.sei.cmu.edu/library/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155519": {
+      "action": "external",
+      "target_url": "http://www.biblioteca.mincyt.gob.ar/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155520": {
+      "action": "external",
+      "target_url": "http://sedici.unlp.edu.ar",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114898": {
+      "action": "external",
+      "target_url": "http://www.cessi.org.ar/opssi",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=156672": {
+      "action": "downloaded",
+      "filename": "A View of 20th and 21st Century Software Engineering -Boehm2006.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155253": {
+      "action": "downloaded",
+      "filename": "software-engineering-global-10th_ed-Sommerville.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114906": {
+      "action": "error",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114908": {
+      "action": "external",
+      "target_url": "https://www.youtube.com/c/IanSommerville/videos",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155252": {
+      "action": "downloaded",
+      "filename": "PRESSMAN-Software-engineering-a-practitioners-approach-9th.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155355": {
+      "action": "downloaded",
+      "filename": "[Wiegers 2023] Software Requirement Essentials - Core Practices.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114918": {
+      "action": "downloaded",
+      "filename": "Wiley - Pattern-Oriented Software Architecture - Volume 1, A System of Patterns.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114916": {
+      "action": "downloaded",
+      "filename": "Design Patterns.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155348": {
+      "action": "external",
+      "target_url": "http://www.scrum.org/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155360": {
+      "action": "external",
+      "target_url": "https://www.scrumstudy.com/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114921": {
+      "action": "downloaded",
+      "filename": "RationalUnifiedProcess.rar",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155807": {
+      "action": "downloaded",
+      "filename": "[Jacobson-Booch-Rumbaugh]The-unified-software-development-process.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=132227": {
+      "action": "downloaded",
+      "filename": "UnifiedProcess-ISISTAN-UNCPBA-EdgardoBelloni.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155129": {
+      "action": "downloaded",
+      "filename": "[UnifiedProcess][OLIVERA-TOLEDO-SOSA]PresentacionMesa Final22_07_2025.mkv",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155155": {
+      "action": "downloaded",
+      "filename": "[Slides][Presentacion][Olivera-Sosa-Toledo] Unified Process.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114920": {
+      "action": "external",
+      "target_url": "https://drive.google.com/file/d/16d2q9PgrwKwX-mcDja_ywH7vJ_fGxUmF/view?usp=sharing",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155941": {
+      "action": "external",
+      "target_url": "https://www.utm.mx/~caff/doc/OpenUPWeb/index.htm",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155356": {
+      "action": "external",
+      "target_url": "https://www.youtube.com/watch?v=3y8CGG-7qHE",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155156": {
+      "action": "downloaded",
+      "filename": "[OpenUP][Kachuk-Sueldo-Viera] Presentación.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155157": {
+      "action": "downloaded",
+      "filename": "[OpenUP][Kachuk-Sueldo-Viera] Material de Resumen.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=155522": {
+      "action": "downloaded",
+      "filename": "uml-2-and-the-unified-process-practical-object-oriented-analysis-and-design-2nd.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114914": {
+      "action": "downloaded",
+      "filename": "Systems Engineering with SysML_UML-Modeling, Analysis, Design.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156621": {
+      "action": "external",
+      "target_url": "https://www.clarin.com/suplementos/zona/economia-colaborativa-nueva-forma-consumir-comprar-vender-utilizar_0_ByCT4AJSZ.html",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157485": {
+      "action": "external",
+      "target_url": "https://revistas.unlp.edu.ar/hipertextos/article/view/11134",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=156622": {
+      "action": "downloaded",
+      "filename": "sustainability-13-02817-v2.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157480": {
+      "action": "external",
+      "target_url": "https://homesolution.net/ar/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157484": {
+      "action": "external",
+      "target_url": "https://www.qxm.com.ar/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157481": {
+      "action": "external",
+      "target_url": "https://www.workana.com/es",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157482": {
+      "action": "external",
+      "target_url": "https://www.iguanafix.com/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157483": {
+      "action": "external",
+      "target_url": "https://zolvers.com/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156623": {
+      "action": "external",
+      "target_url": "https://drive.google.com/file/d/1ne1SFW_SYH551Lou_xwoBJxn4SQr41hE/view?usp=drive_link",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=143391": {
+      "action": "external",
+      "target_url": "https://w3c.github.io/wot-architecture/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=143390": {
+      "action": "downloaded",
+      "filename": "WOTPY - A framework for web of things applications.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=123339": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/PRESTAR ATENCIÓN Acerca del Plagio.md",
+      "type": "page",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114984": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 1. CORRESPONDE A UNIDAD 1-INTRODUCCIÓN A LA INGENIERÍA DE SOFTWARE].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=127914": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 2. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-PROCESOS DE DESARROLLO DE SOFTWARE].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=127916": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 3. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-DESARROLLO ÁGIL DE SOFTWARE].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=127923": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 4. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-ING Y ESPECIFICACIÓN DE REQUERIMIENTOS].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=127930": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 5. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-MODELADO DE SISTEMAS DE SW].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=127931": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 6. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-DISEÑO ARQUITECTONICO].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=128192": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 7. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-DISEÑO E IMPL. INCLUYE PATRONES DE DISEÑO].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=128881": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 7.5 CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-DISEÑO DE EXPERIENCIA DE USUARIO].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=128882": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 8. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-PRUEBA DEL SOFTWARE.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=129218": {
+      "action": "downloaded",
+      "filename": "[MA-2026][CUESTIONARIO 9. CORRESPONDE A UNIDAD 2-TOPICO ESPECIFICO-EVOLUCION DEL SOFTWARE.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114986": {
+      "action": "downloaded",
+      "filename": "[MA 2026] Grupos de TPI y Mini Grupos de Presentaciones.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=141830": {
+      "action": "downloaded",
+      "filename": "[MA-2026][TP INTEGRADOR OBLIGATORIO GRUPAL][ENTREGABLE].pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114938": {
+      "action": "external",
+      "target_url": "http://www.icse-conferences.org/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114943": {
+      "action": "external",
+      "target_url": "https://rio2023.dc.exa.unrc.edu.ar/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114939": {
+      "action": "external",
+      "target_url": "https://redunci.info.unlp.edu.ar/congresos/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114941": {
+      "action": "external",
+      "target_url": "https://www.sadio.org.ar/jaiio/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114942": {
+      "action": "external",
+      "target_url": "https://confedi.org.ar/riisic/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114935": {
+      "action": "external",
+      "target_url": "https://www.argentina.gob.ar/noticias/el-poder-ejecutivo-reglamento-la-ley-de-economia-del-conocimiento",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114936": {
+      "action": "external",
+      "target_url": "https://misionesonline.net/2020/08/14/legislatura-creo-silicon-misiones/",
+      "type": "url",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=99641": {
+      "action": "downloaded",
+      "filename": "II339 - Tecnologías de Bases de Datos - 2026.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=4358": {
+      "action": "downloaded",
+      "filename": "Sistemas de Bases de Datos.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=22031": {
+      "action": "downloaded",
+      "filename": "Tecnicas de acceso.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/book/view.php?id=22017": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Tecnologias de Bases de Datos/Recursos/Clase 3.md",
+      "type": "page",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=22035": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Tecnologias de Bases de Datos/Recursos/Guía de Lectura.md",
+      "type": "page",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=98362": {
+      "action": "downloaded",
+      "filename": "TBD - Procesamiento de Consultas.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/book/view.php?id=24983": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Tecnologias de Bases de Datos/Recursos/Clase 4 14-abr-2026.md",
+      "type": "page",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=24984": {
+      "action": "page",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Tecnologias de Bases de Datos/Recursos/Guía de Lectura.md",
+      "type": "page",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=115950": {
+      "action": "downloaded",
+      "filename": "Calidad en BD.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=158681": {
+      "action": "downloaded",
+      "filename": "Brochure ESP - POL___ABR____v03.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=129020": {
+      "action": "external",
+      "target_url": "https://docs.google.com/forms/d/e/1FAIpQLSdm7tlF23rOPas4pkdDJ8996x-ZBKvt-9Pig93e9eEqiPY3tw/viewform?usp=sf_link",
+      "type": "url",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=157072": {
+      "action": "downloaded",
+      "filename": "alumno.zip",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=157073": {
+      "action": "downloaded",
+      "filename": "Práctico 1 - Repaso SQL.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=157074": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Tecnologias de Bases de Datos/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=158352": {
+      "action": "downloaded",
+      "filename": "TFI-2026.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    }
+  },
+  "url_resolutions": {
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=119031": {
+      "target_url": "",
+      "is_internal": false,
+      "resolved_type": "url",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=120200": {
+      "target_url": "https://www.youtube.com/playlist?list=PLT9jTC-Jk8rUa_sxQorcBqqehjQqDpVLH",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=22542": {
+      "target_url": "",
+      "is_internal": false,
+      "resolved_type": "url",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=132446": {
+      "target_url": "https://youtu.be/Zu9_XL5rNgg",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=66016": {
+      "target_url": "",
+      "is_internal": false,
+      "resolved_type": "url",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=66034": {
+      "target_url": "",
+      "is_internal": false,
+      "resolved_type": "url",
+      "error": "No se pudo resolver URL destino"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=116242": {
+      "target_url": "https://qm-for-windows.software.informer.com/Descargar-gratis/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156000": {
+      "target_url": "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=114892",
+      "is_internal": true,
+      "resolved_type": "file",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155999": {
+      "target_url": "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=116317",
+      "is_internal": true,
+      "resolved_type": "file",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156001": {
+      "target_url": "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=141830",
+      "is_internal": true,
+      "resolved_type": "file",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155137": {
+      "target_url": "https://www.ugd.edu.ar/la-universidad/alumnos/horarios-de-catedra",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155143": {
+      "target_url": "https://ugd.edu.ar/es/la-universidad-4/alumnos/calendario",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118339": {
+      "target_url": "http://www.ugd.edu.ar/images/reglamentos/Reglamento_General_de_Estudios.pdf",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118338": {
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNormaBusquedaAvanzada/58577/20111011",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155144": {
+      "target_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/328034/20250708",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118343": {
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNorma/244514/20210518",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118344": {
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNorma/183989/20180518",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118345": {
+      "target_url": "http://www.coneau.edu.ar/archivos/Res786_09.pdf",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=118346": {
+      "target_url": "https://www.boletinoficial.gob.ar/#!DetalleNorma/9416851/20090604",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=128336": {
+      "target_url": "",
+      "is_internal": false,
+      "resolved_type": "url",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114900": {
+      "target_url": "http://resources.sei.cmu.edu/library/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155519": {
+      "target_url": "http://www.biblioteca.mincyt.gob.ar/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155520": {
+      "target_url": "http://sedici.unlp.edu.ar",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114898": {
+      "target_url": "http://www.cessi.org.ar/opssi",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114906": {
+      "target_url": "",
+      "is_internal": false,
+      "resolved_type": "url",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114908": {
+      "target_url": "https://www.youtube.com/c/IanSommerville/videos",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155348": {
+      "target_url": "http://www.scrum.org/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155360": {
+      "target_url": "https://www.scrumstudy.com/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114920": {
+      "target_url": "https://drive.google.com/file/d/16d2q9PgrwKwX-mcDja_ywH7vJ_fGxUmF/view?usp=sharing",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155941": {
+      "target_url": "https://www.utm.mx/~caff/doc/OpenUPWeb/index.htm",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=155356": {
+      "target_url": "https://www.youtube.com/watch?v=3y8CGG-7qHE",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156621": {
+      "target_url": "https://www.clarin.com/suplementos/zona/economia-colaborativa-nueva-forma-consumir-comprar-vender-utilizar_0_ByCT4AJSZ.html",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157485": {
+      "target_url": "https://revistas.unlp.edu.ar/hipertextos/article/view/11134",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157480": {
+      "target_url": "https://homesolution.net/ar/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157484": {
+      "target_url": "https://www.qxm.com.ar/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157481": {
+      "target_url": "https://www.workana.com/es",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157482": {
+      "target_url": "https://www.iguanafix.com/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=157483": {
+      "target_url": "https://zolvers.com/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=156623": {
+      "target_url": "https://drive.google.com/file/d/1ne1SFW_SYH551Lou_xwoBJxn4SQr41hE/view?usp=drive_link",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=143391": {
+      "target_url": "https://w3c.github.io/wot-architecture/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114938": {
+      "target_url": "http://www.icse-conferences.org/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114943": {
+      "target_url": "https://rio2023.dc.exa.unrc.edu.ar/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114939": {
+      "target_url": "https://redunci.info.unlp.edu.ar/congresos/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114941": {
+      "target_url": "https://www.sadio.org.ar/jaiio/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114942": {
+      "target_url": "https://confedi.org.ar/riisic/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114935": {
+      "target_url": "https://www.argentina.gob.ar/noticias/el-poder-ejecutivo-reglamento-la-ley-de-economia-del-conocimiento",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=114936": {
+      "target_url": "https://misionesonline.net/2020/08/14/legislatura-creo-silicon-misiones/",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/url/view.php?id=129020": {
+      "target_url": "https://docs.google.com/forms/d/e/1FAIpQLSdm7tlF23rOPas4pkdDJ8996x-ZBKvt-9Pig93e9eEqiPY3tw/viewform?usp=sf_link",
+      "is_internal": false,
+      "resolved_type": "external",
+      "error": null
+    }
+  }
+}
