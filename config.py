@@ -18,9 +18,9 @@ DASHBOARD_URL = f"{MOODLE_BASE}/my/"
 COURSE_URL = f"{MOODLE_BASE}/course/view.php"
 
 # --- Paths ---
-VAULT_PATH = Path("/home/giuliano/Facultad/Vault")
-MATERIAS_PATH = VAULT_PATH / "10_Materias"
 PROJECT_PATH = Path(__file__).parent
+VAULT_PATH = PROJECT_PATH.parent.parent.resolve()
+MATERIAS_PATH = VAULT_PATH / "10_Materias"
 
 # --- Mapeo curso Moodle → carpeta vault ---
 # Las claves se normalizan a mayúsculas sin acentos para matching flexible
