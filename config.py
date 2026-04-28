@@ -18,7 +18,7 @@ DASHBOARD_URL = f"{MOODLE_BASE}/my/"
 COURSE_URL = f"{MOODLE_BASE}/course/view.php"
 
 # --- Paths ---
-VAULT_PATH = Path("/home/giuliano/Desarrollo/Personal/Facultad/Vault")
+VAULT_PATH = Path("/home/giuliano/Facultad/Vault")
 MATERIAS_PATH = VAULT_PATH / "10_Materias"
 PROJECT_PATH = Path(__file__).parent
 
