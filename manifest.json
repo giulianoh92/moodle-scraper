@@ -520,8 +520,10 @@
       "materia": "Metodologias Avanzadas"
     },
     "https://campusvirtual.ugd.edu.ar/moodle/mod/page/view.php?id=155145": {
-      "action": "error",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "action": "page",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Noticias y Participaciones Destacadas sobre Integrantes del Equipo de Cátedra.md",
+      "type": "page",
+      "materia": "Metodologias Avanzadas"
     },
     "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=148256": {
       "action": "downloaded",
@@ -1038,6 +1040,12 @@
     "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=158352": {
       "action": "downloaded",
       "filename": "TFI-2026.pdf",
+      "type": "file",
+      "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=120351": {
+      "action": "downloaded",
+      "filename": "Transacciones.pdf",
       "type": "file",
       "materia": "Tecnologias de Bases de Datos"
     }
