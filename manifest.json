@@ -1048,6 +1048,36 @@
       "filename": "Transacciones.pdf",
       "type": "file",
       "materia": "Tecnologias de Bases de Datos"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=128884": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Metodologias Avanzadas/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=159493": {
+      "action": "downloaded",
+      "filename": "TFC Final - Klikailo.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=159494": {
+      "action": "downloaded",
+      "filename": "EST-1658.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=159491": {
+      "action": "downloaded",
+      "filename": "Test Driven Development By Example - Kent Beck.pdf",
+      "type": "file",
+      "materia": "Metodologias Avanzadas"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=159611": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Desarrollo/Personal/Facultad/Vault/10_Materias/Tecnologias de Bases de Datos/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Tecnologias de Bases de Datos"
     }
   },
   "url_resolutions": {
