@@ -23,18 +23,16 @@ VAULT_PATH = PROJECT_PATH.parent.parent.resolve()
 MATERIAS_PATH = VAULT_PATH / "10_Materias"
 
 # --- Mapeo curso Moodle → carpeta vault ---
-# Las claves se normalizan a mayúsculas sin acentos para matching flexible
+# Las claves se normalizan a mayúsculas sin acentos para matching flexible,
+# así que no hace falta duplicar variantes acentuadas.
+#
+# Cursada activa: 2.º cuatrimestre 2026 (4.º año, comisión "A").
 COURSE_MAP = {
-    "METODOLOGIAS AVANZADAS": "Metodologias Avanzadas",
-    "METODOLOGÍAS AVANZADAS": "Metodologias Avanzadas",
-    "AUTOMATAS Y LENGUAJES FORMALES": "Automatas y Lenguajes Formales",
-    "AUTÓMATAS Y LENGUAJES FORMALES": "Automatas y Lenguajes Formales",
-    "INVESTIGACION OPERATIVA": "Investigacion Operativa",
-    "INVESTIGACIÓN OPERATIVA": "Investigacion Operativa",
-    "TECNOLOGIAS DE BASES DE DATOS": "Tecnologias de Bases de Datos",
-    "TECNOLOGÍAS DE BASES DE DATOS": "Tecnologias de Bases de Datos",
-    "TECNOLOGIA DE BASES DE DATOS": "Tecnologias de Bases de Datos",
-    "TECNOLOGÍA DE BASES DE DATOS": "Tecnologias de Bases de Datos",
+    "CALCULO NUMERICO": "Calculo Numerico",
+    "COMPILADORES": "Compiladores",
+    "INGENIERIA DEL SOFTWARE": "Ingenieria del Software",
+    "MODELOS Y SIMULACION": "Modelos y Simulacion",
+    "REDES DE COMPUTADORAS II": "Redes de Computadoras II",
 }
 
 # --- Rate limiting ---
