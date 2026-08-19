@@ -1487,8 +1487,10 @@
       "materia": "Ingenieria del Software"
     },
     "https://campusvirtual.ugd.edu.ar/moodle/mod/book/view.php?id=45792&chapterid=96": {
-      "action": "error",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "action": "page",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/IdSw - CUADERNO DE RECURSOS.md",
+      "type": "page",
+      "materia": "Ingenieria del Software"
     },
     "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=126177": {
       "action": "assign",
