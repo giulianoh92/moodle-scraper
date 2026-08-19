@@ -30,7 +30,9 @@ MATERIAS_PATH = VAULT_PATH / "10_Materias"
 COURSE_MAP = {
     "CALCULO NUMERICO": "Calculo Numerico",
     "COMPILADORES": "Compiladores",
-    "INGENIERIA DEL SOFTWARE": "Ingenieria del Software",
+    # Moodle names the course "INGENIERÍA DE SOFTWARE" (no "L"); the vault
+    # folder keeps "del". Key must match the Moodle side.
+    "INGENIERIA DE SOFTWARE": "Ingenieria del Software",
     "MODELOS Y SIMULACION": "Modelos y Simulacion",
     "REDES DE COMPUTADORAS II": "Redes de Computadoras II",
 }
