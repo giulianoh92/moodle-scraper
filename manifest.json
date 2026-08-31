@@ -2667,6 +2667,18 @@
       "target_url": "https://youtu.be/wNW72MtsTDc",
       "type": "url",
       "materia": "Redes de Computadoras II"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=163247": {
+      "action": "downloaded",
+      "filename": "1-Software e IS.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=163189": {
+      "action": "downloaded",
+      "filename": "Ingeniería de Software 2026 - TP1.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
     }
   },
   "url_resolutions": {
