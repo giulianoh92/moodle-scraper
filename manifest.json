@@ -2679,6 +2679,24 @@
       "filename": "Ingeniería de Software 2026 - TP1.pdf",
       "type": "file",
       "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=163611": {
+      "action": "downloaded",
+      "filename": "Ingeniería de Software 2026 - TP2.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=163571": {
+      "action": "downloaded",
+      "filename": "Clase 2.rar",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=163572": {
+      "action": "downloaded",
+      "filename": "Libro Loucopoulos.rar",
+      "type": "file",
+      "materia": "Ingenieria del Software"
     }
   },
   "url_resolutions": {
