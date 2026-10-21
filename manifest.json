@@ -2697,6 +2697,174 @@
       "filename": "Libro Loucopoulos.rar",
       "type": "file",
       "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164533": {
+      "action": "downloaded",
+      "filename": "calculo1.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164298": {
+      "action": "downloaded",
+      "filename": "Trabajo Práctico N2. CN-UGD.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164532": {
+      "action": "downloaded",
+      "filename": "calculo_raices_ecuaciones_no_lineales.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164039": {
+      "action": "downloaded",
+      "filename": "Ingenieria de Software 2026 - TP3.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164036": {
+      "action": "downloaded",
+      "filename": "04.00. CicloVidaDesarrollo_v04.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164557": {
+      "action": "downloaded",
+      "filename": "Introduccion a Simio.pdf",
+      "type": "file",
+      "materia": "Modelos y Simulacion"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164868": {
+      "action": "downloaded",
+      "filename": "Trabajo Práctico N 3. CN-UGD.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=164821": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=164820": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164817": {
+      "action": "downloaded",
+      "filename": "Ingeniería de Software 2026 - TP4 - Procesos de RE.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164805": {
+      "action": "downloaded",
+      "filename": "Procesos de RE.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=164964": {
+      "action": "downloaded",
+      "filename": "Resolución de ejercicios TP2y3.xlsx",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=165063": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=165062": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165193": {
+      "action": "downloaded",
+      "filename": "Trabajo Práctico N 4. CN-UGD.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165262": {
+      "action": "downloaded",
+      "filename": "Res_Tp4.xlsx",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165260": {
+      "action": "downloaded",
+      "filename": "interpolacion2.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165261": {
+      "action": "downloaded",
+      "filename": "interpolación3.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=165146": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165093": {
+      "action": "downloaded",
+      "filename": "Intro a Gestion de Proyectos.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=165417": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165416": {
+      "action": "downloaded",
+      "filename": "Gestion de Riesgos.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=165771": {
+      "action": "assign",
+      "page_file": null,
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165770": {
+      "action": "downloaded",
+      "filename": "GastonDachary-LeanProductCanvas.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=165769": {
+      "action": "downloaded",
+      "filename": "Gaston Dachary - Estrategias Concepcion Producto Software.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=166011": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=166009": {
+      "action": "downloaded",
+      "filename": "Ingenieria Software - Gestion_Hibrida_IT.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=166067": {
+      "action": "downloaded",
+      "filename": "Trabajo Práctico N 5. CN-UGD.pdf",
+      "type": "file",
+      "materia": "Calculo Numerico"
     }
   },
   "url_resolutions": {
