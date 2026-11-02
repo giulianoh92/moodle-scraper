@@ -2865,6 +2865,18 @@
       "filename": "Trabajo Práctico N 5. CN-UGD.pdf",
       "type": "file",
       "materia": "Calculo Numerico"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/assign/view.php?id=166807": {
+      "action": "assign",
+      "page_file": "/home/giuliano/Facultad/Vault/10_Materias/Ingenieria del Software/Recursos/Bloques.md",
+      "type": "assign",
+      "materia": "Ingenieria del Software"
+    },
+    "https://campusvirtual.ugd.edu.ar/moodle/mod/resource/view.php?id=166805": {
+      "action": "downloaded",
+      "filename": "Ingenieria Software Gestion_Tiempo_Costos_Calidad_Alcance.pdf",
+      "type": "file",
+      "materia": "Ingenieria del Software"
     }
   },
   "url_resolutions": {
